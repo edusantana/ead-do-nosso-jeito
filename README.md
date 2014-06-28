@@ -1,4 +1,16 @@
-ead-do-nosso-jeito
-==================
+# EAD do nosso jeito
 
-Educação a Distância do nosso jeito
+Este livro discute sobre o tema Educação a distância.
+
+## Propósito do livro
+
+Este livro tem como principal propósito:
+
+> Servir como evidências de aprendizagens sobre os conteúdos estudados no curso **Planejamento, Implementação e Gestão da Educação a Distância**, em nível de Pós-Graduação Lato Sensu (Especialização) na modalidade a distância - [Gestão em EAD a Distância](http://www.lante.uff.br/sitenovo/index.php/pos-graduacao/gestao-de-educacao-a-distancia).
+> -- <cite>Alexandre, E. S. M.</cite>
+
+Mas também:
+
+* Registrar informações relativo a Educação a Distância
+* Possibilitar colaboração de colegas
+* Esquematizar os conteúdos estudados
