@@ -192,9 +192,38 @@ de matrícula: pigead@lante.uff.br.
 
 ### Análise dos papeis do LANTE
 
-A reference to the [LANTE-Estrutura](#LANTE-Estrutura).
+Ao observar atentamente a estrutura do LANTE e a nomenclatura
+utilizada podemos observar:
 
-Mais texto aqui.
+- Ausência do papel *Professor*
+- Não há comunicação entre *Aluno* e *Coordenadores de Disciplinas*
+- Existência de vários coordenadores de tutoria
+
+
+Para compreender a estrutura do LANTE, vou analisar comparando
+com a estrutura da UFPB Virtual, onde trabalho, lá temos a seguinte estrutura:
+
+    Alunos > Tutores > Professor
+    Tutores > Coordenador de Tutoria
+    Professores > Coordenador do Curso
+    Professores > Coordenador Pedagógico
+    Coordenador de Tutoria > Coordenador do Curso
+    Suporte
+
+Este modelo difere do LANTE nos seguintes aspectos:
+
+- Existe o Professor
+- Só há um Coordenador de Tutoria
+- Não existe Coordenadores de Disciplinas
+
+#### Análise preliminar
+
+**NOTA**: Preciso de mais evidências para conhecer
+como eles funcionam para realizar uma análise.
+
+- O professor é chamado de Coordenador da Disciplina
+- O que faz o coordenador de tutoria no lante?
+- O Coordenação Geral de Tutoria do LANTE equivale ao Coordenador de Tutoria da UFPB Virtual?
 
 
 
