@@ -37,7 +37,7 @@ facilitar o aprendizado são diferentes. Além disso, o grande número de alunos
 requer a colaboração de uma equipe para atender as necessidades dos alunos.
 
 
-## Atores no Sistema UAB
+## Atores no Sistema UAB através da conceção de bolsas
 
 O sistema UAB concede bolsas para alguns atores envolvidos na EAD,
 nesta seção apresentamos como as bolsas foram concedidas de acordo
@@ -47,7 +47,6 @@ com sua resolução.
 
 De acordo com a *RESOLUÇÃO/ FNDE/CD/ No 044, DE 29 DE DEZEMBRO DE 2006*, são concedidas
 bolsas para os papeis a seguir:
-
 
 * Coordenador/Suplente da UAB nas Instituições Federais de Ensino Superior - IFES
 * Professor/Pesquisador
