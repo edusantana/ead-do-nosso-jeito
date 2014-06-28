@@ -150,6 +150,8 @@ Professor da rede pública, na educação básica ou superior, responsável pela
 Os atores no LANTE podem ser observados nos slides
 apresentados na Aula Inaugural:
 
+![LANTE-Estrutura](./estrutura-academica-e-administrativa.png "Estrutura do LANTE")
+
 ### Coordenação Operacional (COOP)
 
 > A gestão dos cursos é feita pela Coordenação Operacional.
@@ -190,12 +192,9 @@ de matrícula: pigead@lante.uff.br.
 
 ### Análise dos papeis do LANTE
 
-[LANTE-Estrutura]: ./estrutura-academica-e-administrativa.png "Estrutura do LANTE" 
-
-![Estrutura do LANTE][LANTE-Estrutura] 
-
 A reference to the [LANTE-Estrutura](#LANTE-Estrutura).
 
+Mais texto aqui.
 
 
 
