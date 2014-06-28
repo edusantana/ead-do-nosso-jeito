@@ -1,6 +1,8 @@
 # Atores da Educação a Distância
 
-A maioria de nós estudou no ensino presencial a maior parte de nossas vidas. Naquela época, o principal Ator ou Papel era o do Professor. Mas será que na Educação a distância é a mesma coisa?
+A maioria de nós estudou no ensino presencial a maior parte de nossas vidas.
+Naquela época, o principal Ator ou Papel era o do Professor. Mas será que na
+Educação a distância é a mesma coisa?
 
 ## Um curso com muitos alunos no presencial
 
@@ -21,13 +23,18 @@ Quando o número de alunos de um curso fica muito grande, inevitavelmente
 torna-se necessário adicionar intermediários que irão acompanhar o aluno em
 seus estudos. Estes *intermediários* são os **tutores**.
 
-Percebam que estes **tutores** serão **sempre necessários** quando o número de alunos for grande. Caso o número de alunos seja pequeno, um professor apenas poderá dá conta do serviço sozinho.
+Percebam que estes **tutores** serão **sempre necessários** quando o número de
+alunos for grande. Caso o número de alunos seja pequeno, um professor apenas
+poderá dar conta do serviço sozinho.
 
 ## Professor
 
-Será que os professores da EAD possui as mesmas funções dos professores do presencial?
+Será que os professores da EAD possuem as mesmas funções dos professores do presencial?
 
-O principal propósito do professor é facilitar o aprendizado do aluno. Na EAD, o professor continua com a mesma função, no entanto, as ações necessárias para facilitar o aprendizado são diferentes. Além disso, o grande número de alunos requer a colaboração de uma equipe para atender as necessidades dos alunos.
+O principal propósito do professor é facilitar o aprendizado do aluno. Na EAD,
+o professor continua com a mesma função, no entanto, as ações necessárias para
+facilitar o aprendizado são diferentes. Além disso, o grande número de alunos
+requer a colaboração de uma equipe para atender as necessidades dos alunos.
 
 
 

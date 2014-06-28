@@ -15,7 +15,7 @@ Mas também:
 * Possibilitar colaboração de colegas
 * Esquematizar os conteúdos estudados
 
-## Contribuindo o livro
+## Contribuindo com o livro
 
 Você pode contribuir com este livro no github: [ead-do-nosso-jeito](https://github.com/edusantana/ead-do-nosso-jeito).
 
