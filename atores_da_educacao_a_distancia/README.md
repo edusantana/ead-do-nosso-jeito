@@ -55,6 +55,14 @@ com sua resolução.
 | Tutor Presencial      | X |   |
 | Tutor                 |   | X |
 
+Na resolução de 2009 percebemos as seguintes alterações:
+
+* Foram concedidas bolsas para os **Coordenador de tutoria**
+e **Coordenador de curso**, não contemplados anteriormente.
+* As bolsas de tutor a distância e presencial foram referenciadas
+apenas como "Tutor".
+* Nomeclatura de _Suplente_ passou a ser _Coordenador-adjunto_.
+
 
 ### RESOLUÇÃO/ FNDE/CD/ No 044, DE 29 DE DEZEMBRO DE 2006
 
@@ -92,7 +100,7 @@ coordenação do pólo de apoio presencial.
 #### Tutor Presencial
 Professor da rede pública estadual ou municipal, da cidade
 sede do pólo, selecionado pelas Instituições de Ensino Superior vinculadas ao
-Sistema UAB,
+Sistema UAB.
 
 
 ### RESOLUÇÃO CD/FNDE No 26, DE 5 DE JUNHO DE 2009
@@ -137,7 +145,6 @@ atividades típicas de tutoria.
 
 Professor da rede pública, na educação básica ou superior, responsável pela coordenação do pólo de apoio
 presencial.
-
 
 [Resol44_2006]: http://www.uab.capes.gov.br/images/stories/downloads/legislacao/resolucaofnde.pdf "Resolução 44 de 2006"
 [Resol26_2009]: http://www.uab.capes.gov.br/images/stories/downloads/legislacao/resolucao_fnde_n26.pdf "Resolução 26 de 2009"
