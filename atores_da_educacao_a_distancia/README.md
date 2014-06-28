@@ -43,6 +43,18 @@ O sistema UAB concede bolsas para alguns atores envolvidos na EAD,
 nesta seção apresentamos como as bolsas foram concedidas de acordo
 com sua resolução.
 
+| Papel                | 2006 | 2009 |
+| -------------------- |:----:|:----:|
+| Coordenador/Suplente  | X | X |
+| Coordenador de curso  |   | X |
+| Coordenador de tutoria|   | X |
+| Professor/Pesquisador | X | X |
+| Coordenador de Pólo   | X | X |
+| Tutor a Distância     | X |   |
+| Tutor Presencial      | X |   |
+| Tutor                 |   | X |
+
+
 ### RESOLUÇÃO/ FNDE/CD/ No 044, DE 29 DE DEZEMBRO DE 2006
 
 De acordo com a *RESOLUÇÃO/ FNDE/CD/ No 044, DE 29 DE DEZEMBRO DE 2006*, são concedidas
@@ -124,3 +136,7 @@ atividades típicas de tutoria.
 
 Professor da rede pública, na educação básica ou superior, responsável pela coordenação do pólo de apoio
 presencial.
+
+
+[Resol44_2006]: http://www.uab.capes.gov.br/images/stories/downloads/legislacao/resolucaofnde.pdf "Resolução 44 de 2006"
+[Resol26_2009]: http://www.uab.capes.gov.br/images/stories/downloads/legislacao/resolucao_fnde_n26.pdf "Resolução 26 de 2009"
