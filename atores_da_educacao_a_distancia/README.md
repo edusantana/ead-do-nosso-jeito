@@ -45,7 +45,7 @@ com sua resolução.
 
 | Papel                | 2006 | 2009 |
 | -------------------- |:----:|:----:|
-| Coordenador/Suplente  | X | X |
+| Coordenador/Suplente  | X |  |
 | Coordenador/Coordenador-adjunto|  | X |
 | Coordenador de curso  |   | X |
 | Coordenador de tutoria|   | X |
