@@ -145,6 +145,38 @@ para o exercício das atividades típicas de tutoria.
 
 Professor da rede pública, na educação básica ou superior, responsável pela coordenação do pólo de apoio presencial.
 
+## Atores no LANTE
+
+Os atores no LANTE podem ser observados nos slides
+apresentados na Aula Inaugural:
+
+![LANTE-Estrutura](./estrutura-academica-e-administrativa.png "Estrutura do LANTE")
+
+
+### Coordenação Operacional (COOP)
+
+> A gestão dos cursos é feita pela Coordenação Operacional.
+> O contato com as secretarias dos dois cursos, assim como as
+inscrições e cancelamentos de disciplinas são feitos no
+ambiente da Coordenação Operacional, na Plataforma
+MOODLE.
+> O canal de comunicação com os tutores responsáveis pelos
+polos também é feito no ambiente da Coordenação Operacional.
+
+### Coordenação Geral de Tutoria (CGT)
+
+> A gestão dos tutores e coordenadores de tutoria é feita pela
+Coordenação Geral de Tutoria. Ela é responsável pela escolha,
+formação, acompanhamento e avaliação de todos os tutores a
+distância e presenciais e coordenadores de tutoria das
+disciplinas.
+
+> A CGT está vinculada à COOP e acompanha todo o processo
+tutorial, em um trabalho colaborativo com os coordenadores de
+disciplina, com as coordenações dos Cursos e com os
+coordenadores de polo.
+
+
 
 [Resol44_2006]: http://www.uab.capes.gov.br/images/stories/downloads/legislacao/resolucaofnde.pdf "Resolução 44 de 2006"
 [Resol26_2009]: http://www.uab.capes.gov.br/images/stories/downloads/legislacao/resolucao_fnde_n26.pdf "Resolução 26 de 2009"
