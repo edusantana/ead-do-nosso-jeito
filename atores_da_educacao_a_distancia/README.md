@@ -150,9 +150,6 @@ Professor da rede pública, na educação básica ou superior, responsável pela
 Os atores no LANTE podem ser observados nos slides
 apresentados na Aula Inaugural:
 
-![LANTE-Estrutura](./estrutura-academica-e-administrativa.png "Estrutura do LANTE")
-
-
 ### Coordenação Operacional (COOP)
 
 > A gestão dos cursos é feita pela Coordenação Operacional.
@@ -175,6 +172,31 @@ disciplinas.
 tutorial, em um trabalho colaborativo com os coordenadores de
 disciplina, com as coordenações dos Cursos e com os
 coordenadores de polo.
+
+### Coordenador do Curso PIGEAD
+
+Nosso coordenador é Professor Dr. Celso Costa.
+
+### Suporte
+
+Embora não costuma ser consultado com frequência pelos alunos,
+o suporte, também pode ser acionado para tratar sobre problemas
+na plataforma Moodle, através do seguinte e-mail: suporte@lante.uff.br.
+
+### Secretarias dos Cursos
+
+É através de secretaria que é possível solicitar o comprovante
+de matrícula: pigead@lante.uff.br.
+
+### Análise dos papeis do LANTE
+
+[LANTE-Estrutura]: ./estrutura-academica-e-administrativa.png "Estrutura do LANTE" 
+
+![Estrutura do LANTE][LANTE-Estrutura] 
+
+A reference to the [LANTE-Estrutura](#LANTE-Estrutura).
+
+
 
 
 
