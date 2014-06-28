@@ -37,13 +37,63 @@ facilitar o aprendizado são diferentes. Além disso, o grande número de alunos
 requer a colaboração de uma equipe para atender as necessidades dos alunos.
 
 
-
 ## Atores no Sistema UAB
+
+O sistema UAB concede bolsas para alguns atores envolvidos na EAD,
+nesta seção apresentamos como as bolsas foram concedidas de acordo
+com sua resolução.
+
+### RESOLUÇÃO/ FNDE/CD/ No 044, DE 29 DE DEZEMBRO DE 2006
+
+De acordo com a *RESOLUÇÃO/ FNDE/CD/ No 044, DE 29 DE DEZEMBRO DE 2006*, são concedidas
+bolsas para os papeis a seguir:
+
+
+* Coordenador/Suplente da UAB nas Instituições Federais de Ensino Superior - IFES
+* Professor/Pesquisador
+* Tutor a Distância
+* Coordenador de Pólo
+* Tutor Presencial
+
+#### Coordenador/Suplente da UAB nas Instituições Federais de Ensino Superior - IFES
+
+Professor ou pesquisador designado/indicado pelas instituições vinculadas
+ao Sistema UAB, que atuará nas atividades de coordenação e apoio aos pólos
+presenciais, e no desenvolvimento de projetos de pesquisa relacionados aos
+cursos e programas implantados no âmbito do Sistema UAB.
+
+#### Professor/Pesquisador
+Professor ou pesquisador designado/indicado pelas
+instituições vinculadas ao Sistema UAB, que atuará nas atividades típicas de
+ensino, de desenvolvimento de projetos e de pesquisa, relacionadas aos cursos e
+programas implantados no âmbito do Sistema UAB
+
+#### Tutor a Distância
+Participante dos cursos e programas da UAB, selecionado
+pelas instituições vinculadas ao Sistema UAB, para o exercício das atividades
+típicas de tutoria em educação a distância.
+
+#### Coordenador de Pólo
+Professor da rede pública na educação básica, que será responsável pela
+coordenação do pólo de apoio presencial.
+
+#### Tutor Presencial
+Professor da rede pública estadual ou municipal, da cidade
+sede do pólo, selecionado pelas Instituições de Ensino Superior vinculadas ao
+Sistema UAB,
+
 
 ### RESOLUÇÃO CD/FNDE No 26, DE 5 DE JUNHO DE 2009
 
 De acordo com a RESOLUÇÃO CD/FNDE No 26, DE 5 DE JUNHO DE 2009, são concedidas
-bolsas para os papaies a seguir.
+bolsas para os papeis a seguir:
+
+* Coordenador/Coordenador-adjunto da UAB
+* Coordenador de curso
+* Coordenador de tutoria
+* Professor–pesquisador
+* Tutor
+* Coordenador de pólo
 
 #### Coordenador/Coordenador-adjunto da UAB
 Professor que atuará nas atividades de coordenação e apoio aos pólos
