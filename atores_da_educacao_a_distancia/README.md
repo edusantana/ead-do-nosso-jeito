@@ -29,15 +29,15 @@ poderá dar conta do serviço sozinho.
 
 ## Professor
 
-Será que os professores da EAD possuem as mesmas funções dos professores do presencial?
+Será que os professores da EAD possuem as mesmas funções dos 
+professores do presencial?
 
 O principal propósito do professor é facilitar o aprendizado do aluno. Na EAD,
 o professor continua com a mesma função, no entanto, as ações necessárias para
 facilitar o aprendizado são diferentes. Além disso, o grande número de alunos
 requer a colaboração de uma equipe para atender as necessidades dos alunos.
 
-
-## Atores no Sistema UAB através da conceção de bolsas
+## Atores no Sistema UAB
 
 O sistema UAB concede bolsas para alguns atores envolvidos na EAD,
 nesta seção apresentamos como as bolsas foram concedidas de acordo
@@ -61,10 +61,10 @@ Na resolução de 2009 percebemos as seguintes alterações:
 e **Coordenador de curso**, não contemplados anteriormente.
 * As bolsas de tutor a distância e presencial foram referenciadas
 apenas como "Tutor".
-* Nomeclatura de _Suplente_ passou a ser _Coordenador-adjunto_.
+* Nomenclatura de _Suplente_ passou a ser _Coordenador-adjunto_.
 
 
-### RESOLUÇÃO/ FNDE/CD/ No 044, DE 29 DE DEZEMBRO DE 2006
+### RESOLUÇÃO/FNDE/CD/ No 044, DE 29 DE DEZEMBRO DE 2006
 
 De acordo com a *RESOLUÇÃO/ FNDE/CD/ No 044, DE 29 DE DEZEMBRO DE 2006*, são concedidas
 bolsas para os papeis a seguir:
@@ -133,18 +133,18 @@ do Sistema UAB.
 
 #### Professor–pesquisador
 Professor ou pesquisador designado ou indicado pelas IPES
-vinculadas ao Sistema UAB, que atuará nas atividades típicas de ensino, de desenvolvimento de
-projetos e de pesquisa, relacionadas aos cursos e programas implantados no âmbito do Sistema
-UAB.
+vinculadas ao Sistema UAB, que atuará nas atividades típicas de 
+ensino, de desenvolvimento de projetos e de pesquisa, relacionadas 
+aos cursos e programas implantados no âmbito do Sistema UAB.
 
 #### Tutor
-Profissional selecionado pelas IPES vinculadas ao Sistema UAB para o exercício das
-atividades típicas de tutoria.
+Profissional selecionado pelas IPES vinculadas ao Sistema UAB 
+para o exercício das atividades típicas de tutoria.
 
 #### Coordenador de pólo
 
-Professor da rede pública, na educação básica ou superior, responsável pela coordenação do pólo de apoio
-presencial.
+Professor da rede pública, na educação básica ou superior, responsável pela coordenação do pólo de apoio presencial.
+
 
 [Resol44_2006]: http://www.uab.capes.gov.br/images/stories/downloads/legislacao/resolucaofnde.pdf "Resolução 44 de 2006"
 [Resol26_2009]: http://www.uab.capes.gov.br/images/stories/downloads/legislacao/resolucao_fnde_n26.pdf "Resolução 26 de 2009"

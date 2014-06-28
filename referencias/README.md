@@ -2,7 +2,6 @@
 
 Machado, Liliana Dias; Machado, Elian de Castro. **O papel da tutoria em ambientes de EAD**. 2004. Disponível em http://www.abed.org.br/congresso2004/por/htm/022-tc-a2.htm.
 
-
 Ministério da Educação.
 **RESOLUÇÃO/ FNDE/CD/ No 044, DE 29 DE DEZEMBRO DE 2006.**
 Disponível em: http://www.uab.capes.gov.br/images/stories/downloads/legislacao/resolucaofnde.pdf.
