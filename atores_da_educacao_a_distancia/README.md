@@ -2,7 +2,7 @@
 
 A maioria de nós estudou no ensino presencial a maior parte de nossas vidas.
 Naquela época, o principal Ator ou Papel era o do Professor. Mas será que na
-Educação a distância é a mesma coisa?
+Educação a distância é do mesmo jeito?
 
 ## Um curso com muitos alunos no presencial
 
