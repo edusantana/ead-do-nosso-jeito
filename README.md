@@ -11,7 +11,7 @@ Este livro tem como principal propósito:
 
 Mas também:
 
-* Registrar informações relativo a Educação a Distância
+* Registrar informações relativas a Educação a Distância
 * Possibilitar colaboração de colegas
 * Esquematizar os conteúdos estudados
 
