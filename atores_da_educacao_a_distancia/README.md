@@ -38,3 +38,40 @@ requer a colaboração de uma equipe para atender as necessidades dos alunos.
 
 
 
+## Atores no Sistema UAB
+
+### RESOLUÇÃO CD/FNDE No 26, DE 5 DE JUNHO DE 2009
+
+De acordo com a RESOLUÇÃO CD/FNDE No 26, DE 5 DE JUNHO DE 2009, são concedidas
+bolsas para os papaies a seguir.
+
+#### Coordenador/Coordenador-adjunto da UAB
+Professor que atuará nas atividades de coordenação e apoio aos pólos
+presenciais e no desenvolvimento de projetos de pesquisa relacionados aos cursos e programas
+implantados no âmbito do Sistema.
+
+#### Coordenador de curso nas instituições públicas de ensino superior (IPES)
+Professor ou
+pesquisador designado/indicado pelas IPES vinculadas ao Sistema UAB, que atuará nas atividades
+de coordenação de curso implantado no âmbito do Sistema UAB e no desenvolvimento de projetos
+de pesquisa relacionados aos cursos.
+
+#### Coordenador de tutoria nas instituições públicas de ensino superior (IPES)
+Professor ou pesquisador designado/indicado pelas IPES vinculadas ao Sistema UAB,
+que atuará nas atividades de coordenação de tutores dos cursos implantados no âmbito
+do Sistema UAB.
+
+#### Professor–pesquisador
+Professor ou pesquisador designado ou indicado pelas IPES
+vinculadas ao Sistema UAB, que atuará nas atividades típicas de ensino, de desenvolvimento de
+projetos e de pesquisa, relacionadas aos cursos e programas implantados no âmbito do Sistema
+UAB.
+
+#### Tutor
+Profissional selecionado pelas IPES vinculadas ao Sistema UAB para o exercício das
+atividades típicas de tutoria.
+
+#### Coordenador de pólo
+
+Professor da rede pública, na educação básica ou superior, responsável pela coordenação do pólo de apoio
+presencial.
