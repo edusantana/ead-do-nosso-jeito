@@ -4,6 +4,28 @@ A maioria de nós estudou no ensino presencial a maior parte de nossas vidas.
 Naquela época, o principal Ator ou Papel era o do Professor. Mas será que na
 Educação a distância é do mesmo jeito?
 
+**Papeis na EAD**:
+
+-Aluno
+-Professor/Coordenador de Disciplina
+-Tutor/Mediador a Distância
+-Tutor/Mediador Presencial
+-Mediador a Distância
+-Mediador a Presencial
+-Coordenador de curso
+-Coordenador de Tutoria
+-Coordenação Geral de Tutoria
+-Coordenador de Pólo
+-Coordenador Operacional
+-Coordenador Pedagógico
+-Professor Conteudista
+-Desiner Instrucional
+-Designer
+-Webdesigner
+-Secretaria
+-Suporte
+
+
 ## Um curso com muitos alunos no presencial
 
 Um colega meu de trabalho me contou que há vários anos foi fazer uma
@@ -29,7 +51,7 @@ poderá dar conta do serviço sozinho.
 
 ## Professor
 
-Será que os professores da EAD possuem as mesmas funções dos 
+Será que os professores da EAD possuem as mesmas funções dos
 professores do presencial?
 
 O principal propósito do professor é facilitar o aprendizado do aluno. Na EAD,
@@ -133,12 +155,12 @@ do Sistema UAB.
 
 #### Professor–pesquisador
 Professor ou pesquisador designado ou indicado pelas IPES
-vinculadas ao Sistema UAB, que atuará nas atividades típicas de 
-ensino, de desenvolvimento de projetos e de pesquisa, relacionadas 
+vinculadas ao Sistema UAB, que atuará nas atividades típicas de
+ensino, de desenvolvimento de projetos e de pesquisa, relacionadas
 aos cursos e programas implantados no âmbito do Sistema UAB.
 
 #### Tutor
-Profissional selecionado pelas IPES vinculadas ao Sistema UAB 
+Profissional selecionado pelas IPES vinculadas ao Sistema UAB
 para o exercício das atividades típicas de tutoria.
 
 #### Coordenador de pólo
