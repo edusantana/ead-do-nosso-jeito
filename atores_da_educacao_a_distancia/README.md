@@ -199,7 +199,6 @@ utilizada podemos observar:
 - Não há comunicação entre *Aluno* e *Coordenadores de Disciplinas*
 - Existência de vários coordenadores de tutoria
 
-
 Para compreender a estrutura do LANTE, vou analisar comparando
 com a estrutura da UFPB Virtual, onde trabalho, lá temos a seguinte estrutura:
 
@@ -209,12 +208,14 @@ com a estrutura da UFPB Virtual, onde trabalho, lá temos a seguinte estrutura:
     Professores > Coordenador Pedagógico
     Coordenador de Tutoria > Coordenador do Curso
     Suporte
+    Os cursos são semestrais, com disciplinas em paralelo
 
 Este modelo difere do LANTE nos seguintes aspectos:
 
 - Existe o Professor
 - Só há um Coordenador de Tutoria
 - Não existe Coordenadores de Disciplinas
+- Disciplinas em paralelo
 
 #### Análise preliminar
 
