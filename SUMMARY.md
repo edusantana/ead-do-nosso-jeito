@@ -6,5 +6,5 @@
 * [Professor na EAD](professor_na_ead/README.md)
 * [Tutor](tutor/README)
 * [Aluno da EAD](aluno_da_ead/README.md)
+* [Críticas](criticas/README.md)
 * [Referências](referencias/README.md)
-
