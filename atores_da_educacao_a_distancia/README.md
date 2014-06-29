@@ -6,24 +6,23 @@ Educação a distância é do mesmo jeito?
 
 **Papeis na EAD**:
 
--Aluno
--Professor/Coordenador de Disciplina
--Tutor/Mediador a Distância
--Tutor/Mediador Presencial
--Mediador a Distância
--Mediador a Presencial
--Coordenador de curso
--Coordenador de Tutoria
--Coordenação Geral de Tutoria
--Coordenador de Pólo
--Coordenador Operacional
--Coordenador Pedagógico
--Professor Conteudista
--Desiner Instrucional
--Designer
--Webdesigner
--Secretaria
--Suporte
+* Aluno
+* Professor/Coordenador de Disciplina
+* Tutor/Mediador a Distância
+* Tutor/Mediador Presencial
+* Coordenador de curso
+* Coordenador de Tutoria
+* Coordenação Geral de Tutoria
+* Coordenador de Pólo
+* Coordenador Operacional
+* Coordenador Pedagógico
+* Secretaria
+* Suporte
+* Material Didático
+** Professor Conteudista
+** Designer Instrucional
+** Designer
+
 
 
 ## Um curso com muitos alunos no presencial

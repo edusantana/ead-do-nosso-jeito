@@ -18,4 +18,3 @@ Mas também:
 ## Contribuindo com o livro
 
 Você pode contribuir com este livro no github: [ead-do-nosso-jeito](https://github.com/edusantana/ead-do-nosso-jeito).
-
