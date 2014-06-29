@@ -1,0 +1,16 @@
+Aluno:2
+Professor:1
+Tutor Presencial:1
+Tutor a Distância:1
+Mediador a Distância:1
+Mediador a Presencial:1
+Designer:1
+Webdesigner:1
+Coordenador de curso:1
+Coordenador de tutoria:1
+Coordenador de Pólo:1
+Suporte:1
+Secretaria:1
+Coordenação Operacional:1
+Coordenação Geral de Tutoria:1
+Coordenador Pedagógico:1

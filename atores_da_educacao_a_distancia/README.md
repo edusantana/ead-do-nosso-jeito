@@ -226,7 +226,9 @@ como eles funcionam para realizar uma análise.
 - O que faz o coordenador de tutoria no lante?
 - O Coordenação Geral de Tutoria do LANTE equivale ao Coordenador de Tutoria da UFPB Virtual?
 
+Lista dos atores, independente do sistema:
 
+![fig-ead-atores](./ead-atores.png "Atores da EAD")
 
 
 [Resol44_2006]: http://www.uab.capes.gov.br/images/stories/downloads/legislacao/resolucaofnde.pdf "Resolução 44 de 2006"
