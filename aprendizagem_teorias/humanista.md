@@ -31,7 +31,7 @@ Como prática desta teoria, temos o Relato de uma experiência na Escola Lumiar 
 > (...)
 > O plano pedagógico da escola é definido de acordo com o PCN. O que o diferencia das outras escolas é a forma de executá-lo. Por exemplo: toda escola tem o direito à autonomia de gestão; a Lumiar exerceu este direito rompendo com o sistema de ciclos sugerido pelo PCN, adotando o sistema de grupos de pesquisa por meio de projetos.
 >
-> *Todo conteúdo a ser ministrado aos educandos será executado por projetos*, que tem a duração de três meses. Os projetos são interdisciplinares e elaborados por mestres que tenham, naquele ofício uma grande paixão. E com esta mesma paixão ele instiga os educandos, o que favorecerá a sua aprendizagem. Esses projetos são feitos para respeitar a ritmo de cada educando, já que os grupos não são definidos por faixa etária e sim por grupo de afinidade.
+> *Todo conteúdo a ser ministrado aos educandos será executado por projetos*, que tem a duração de três meses. Os projetos são interdisciplinares e elaborados por mestres que tenham, naquele ofício uma grande paixão. (...) Esses projetos são feitos para respeitar a ritmo de cada educando, já que os grupos não são definidos por faixa etária e sim por grupo de afinidade.
 >
 > O aluno não é obrigado a participar dos projetos. Ele será despertado para a importância de cada projeto em sua vida estudantil, mas nunca obrigado a freqüentá-lo. A escolha não vem dos pais, nem dos professores e sim dele mesmo. Mas ao escolhê-lo ele terá que seguir regras pré-definidas. Terão direitos e obrigações a serem cumpridos. Dessa forma, eles estão sendo preparados para assumirem responsabilidades.
 >
