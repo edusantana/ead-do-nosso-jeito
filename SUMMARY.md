@@ -7,6 +7,7 @@
 * [Tutor](tutor/README)
 * [Aluno da EAD](aluno_da_ead/README.md)
 * [Teorias de Aprendizagem em EaD](aprendizagem_teorias/README.md)
+  * [Humanista](aprendizagem_teorias/humanista.md)
   * [Referências](aprendizagem_teorias/referencias.md)
 * [Críticas](criticas/README.md)
 * [Referências](referencias/README.md)
