@@ -7,4 +7,5 @@
   * [Humanista](aprendizagem_teorias/humanista.md)
   * [Referências](aprendizagem_teorias/referencias.md)
 * [Críticas](criticas/README.md)
+* [Criando um curso de EAD](criando-curso-ead/README.md)
 * [Referências](referencias/README.md)
