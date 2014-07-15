@@ -1,4 +1,5 @@
-# Pigead / LANTE
+
+# Pigead / Produção de Material Didático Impresso
 
 Neste capítulo estarei reunindo as ativiades que estão sendo solicitadas por cada disciplina do curso.
 

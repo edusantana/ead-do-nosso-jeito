@@ -1,4 +1,5 @@
-# Pigead / LANTE
+
+# Pigead / Gestão de Cursos a Distância
 
 Neste capítulo estarei reunindo as ativiades que estão sendo solicitadas por cada disciplina do curso.
 

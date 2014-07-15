@@ -1,4 +1,5 @@
-# Pigead / LANTE
+
+# Pigead / Avaliação da Aprendizagem e Institucional
 
 Neste capítulo estarei reunindo as ativiades que estão sendo solicitadas por cada disciplina do curso.
 

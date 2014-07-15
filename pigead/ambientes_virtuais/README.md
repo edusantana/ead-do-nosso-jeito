@@ -1,4 +1,5 @@
-# Pigead / LANTE
+
+# Pigead / Ambientes Virtuais e Mídias de Comunicação
 
 Neste capítulo estarei reunindo as ativiades que estão sendo solicitadas por cada disciplina do curso.
 

@@ -1,4 +1,5 @@
-# Pigead / LANTE
+
+# Desenvolvimento de Cursos a Distância com Foco no Aluno
 
 Neste capítulo estarei reunindo as ativiades que estão sendo solicitadas por cada disciplina do curso.
 
