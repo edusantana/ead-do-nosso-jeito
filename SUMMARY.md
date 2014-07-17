@@ -7,7 +7,6 @@
   * [Humanista](aprendizagem_teorias/humanista.md)
   * [Referências](aprendizagem_teorias/referencias.md)
 * [Críticas](criticas/README.md)
-* [Criando um curso de EAD](criando-curso-ead/README.md)
 * [Pigead/LANTE](pigead/README.md)
   * [Fundamentos da EaD](pigead/fundamentos_da_ead/README.md)
   * [Desenvolvimento de Cursos a Distância com Foco no Aluno](pigead/foco_no_aluno/README.md)
