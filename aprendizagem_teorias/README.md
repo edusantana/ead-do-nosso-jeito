@@ -33,7 +33,7 @@ Ponto central: estrutura cognitiva do sujeito. As estruturas cognitivas mudam at
 ## Teoria Sócio-Cultural de Vygotsky
 Desenvolvimento cognitivo é limitado a um determinado potencial para cada intervalo de idade (ZPD); oindivíduo deve estar inserido em um grupo social e aprende o que seu grupo produz; o conhecimento surge primeiro no grupo, para só depois ser interiorizado. A aprendizagem ocorre no relacionamento do aluno com o professor e com outros alunos.
 
-![alt text](/assets/Papel-da-Escola-no-Desenvolvimento-Cognitivo.png "Logo Title Text 1")
+![O papel da Escola no Desenvolvimento do Aluno](Papel-da-Escola-no-Desenvolvimento-Cognitivo.png "Logo Title Text 1")
 
 ## Aprendizagem baseada em Problemas/ Instrução ancorada (John Bransford & the CTGV)
 Aprendizagem se inicia com um problema a ser resolvido. Aprendizado baseado em tecnologia. As atividades de aprendizado e ensino devem ser criadas em torno de uma "âncora", que deve ser algum tipo de estudo de um caso ou uma situação envolvendo um problema.
