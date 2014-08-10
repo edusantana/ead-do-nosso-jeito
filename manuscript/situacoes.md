@@ -3,13 +3,6 @@
 Nesta seção são apresentadas situações reais para possibilitar
 discussões pedagógicas sobre elas.
 
-## Recomendações para Discussão
-
-- Como foi a atitude do aluno?
-- Como foi a atitude do tutor?
-- O que aluno poderia fazer diferente?
-- O que o tutor poderia fazer diferente?
-
 ## Casos
 
 Os casos apresentados foram baseados em situações reais, com nomes alterados para manter confidencialidade.
@@ -19,7 +12,7 @@ I> **Você tem um novo caso que gostaria de compartilhar? Entre em contato conos
 ### Caso de Aline
 
 No caso de Aline a atividade semanal solicitava um resumo
-sobre os temas estudados. Os critérios de correção incluía:
+sobre os temas estudados. Os critérios de correção incluíam:
 
 - Divisão do texto em introdução, desenvolvimento, conclusão e bibliografia
 - Embasamento teórico, com referências no formato da ABNT
@@ -45,4 +38,11 @@ A> Como este estudo das teorias de ensinamentos vimos que as mais presentes no E
 
 #### Feedback realizado pelo Tutor
 
-> Como dito durante toda a disciplina, pesquisas são importantes, vitais em um curso acadêmico. Mas é preciso que fique claro, que essas devem vir acompanhadas com nossas palavras, nossas ideias, nossos pontos de vistas. Por isso, infelizmente sua tarefa de reposição não pode ser considerada.
+A> Como dito durante toda a disciplina, pesquisas são importantes, vitais em um curso acadêmico. Mas é preciso que fique claro, que essas devem vir acompanhadas com nossas palavras, nossas ideias, nossos pontos de vistas. Por isso, infelizmente sua tarefa de reposição não pode ser considerada.
+
+## Recomendações para Discussão dos casos
+
+- Como foi a atitude do aluno?
+- Como foi a atitude do tutor?
+- O que aluno poderia fazer diferente?
+- O que o tutor poderia fazer diferente?
