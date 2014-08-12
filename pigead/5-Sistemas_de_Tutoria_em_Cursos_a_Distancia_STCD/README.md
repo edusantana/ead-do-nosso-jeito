@@ -57,6 +57,16 @@ Atenção
 - Tamanho: mínimo de uma e máximo de duas páginas,
 - Formato:: folha A4, espaçamento 1,5, fonte Times New Roman ou Arial, tamanho 12.
 
+
+### Tarefa 2 ::: Produção de Texto
+Os teóricos que versam sobre competências para mediação pedagógica buscam enfatizar que é importante a experiência trazida pelo professor-mediador do ensino presencial, contudo, não nega a necessidade de flexibilizar a prática pedagógica. Pensando nisso, as autoras Nobre e Melo (2011), na Figura 2, apresentam uma ilustração com o objetivo de entender quais são as competências requeridas para esse profissional.
+
+Com base no texto e na imagem destacada, escolha cinco competências que você avalia como indispensáveis para boa prática do mediador em EaD e reflita sobre suas possíveis correlações com a docência presencial. Você chega a alguma conclusão?
+
+Não se esqueça de fundamentar teoricamente e buscar outras fontes além do texto base.
+
+Formato: mínimo de uma e máximo de três páginas, folha A4, espaçamento 1,5, fonte Times New Roman ou Arial, tamanho 12.
+
 ### Tarefa 3 ::: Produção de Texto
 Na Educação a Distância é necessário que o planejamento e as atividades estejam em sintonia, do contrário pode ocorrer um distanciamento entre o professor e o aluno, fazendo com que o último se sinta isolado e desamparado. É neste momento que o(a) tutor(a) se faz presente, atuando como um elo entre professor, material didático e aluno, tornando qualitativo o processo de ensino-aprendizagem.
 
@@ -65,6 +75,12 @@ Leia atentamente o documento “Exemplos de sistemas de tutoria” e escolha doi
 Atenção: você deve explicitar em que tipo de instituição está pensando, afinal, um curso preparatório tem características distintas de um curso de pós-graduação, ou de formação continuada dos funcionários de uma empresa, por exemplo.
 
 Formato: mínimo de duas e máximo de quatro páginas, folha A4, espaçamento 1,5, fonte Times New Roman ou Arial, tamanho 12.
+
+### Tarefa 4 ::: Produção de Texto
+
+Realize a Atividade 1, descrita na página 93 do texto base desta etapa.
+
+Formato: mínimo de duas e máximo de seis páginas, folha A4, espaçamento 1,5, fonte Times New Roman ou Arial, tamanho 12.
 
 ## Fóruns
 
@@ -104,3 +120,11 @@ Neste fórum vamos brincar de trocar de lugar. Imagine que neste momento você �
     Iiiii...passei uma informação errada e agora?
 
 Não deixe de comentar as colaborações de seus colegas e aprofundar as discussões!
+
+### Fórum ::: Fórum Temático 4
+
+Identifique, nos fóruns de discussão de outras disciplinas, situações como a descrita na Atividade 2 do texto base. Cole as postagens do cursista e do tutor, sem identificá-los, e comente-as com base nas máximas conversacionais e na teoria das faces. Você agiria da mesma forma que o tutor agiu? Por quê?
+
+Não deixe de comentar as colaborações de seus colegas e aprofundar as discussões.
+
+Atenção, esse trabalho exige um cuidado ético muito grande, tome cuidado para não expor e nem julgar ninguém, trata-se apenas de um estudo de casos.

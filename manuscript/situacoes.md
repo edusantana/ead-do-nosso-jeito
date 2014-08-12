@@ -38,7 +38,8 @@ A> Como este estudo das teorias de ensinamentos vimos que as mais presentes no E
 
 #### Feedback realizado pelo Tutor
 
-A> Como dito durante toda a disciplina, pesquisas são importantes, vitais em um curso acadêmico. Mas é preciso que fique claro, que essas devem vir acompanhadas com nossas palavras, nossas ideias, nossos pontos de vistas. Por isso, infelizmente sua tarefa de reposição não pode ser considerada.
+A> Como dito durante toda a disciplina, pesquisas são im
+portantes, vitais em um curso acadêmico. Mas é preciso que fique claro, que essas devem vir acompanhadas com nossas palavras, nossas ideias, nossos pontos de vistas. Por isso, infelizmente sua tarefa de reposição não pode ser considerada.
 
 ## Recomendações para Discussão dos casos
 
