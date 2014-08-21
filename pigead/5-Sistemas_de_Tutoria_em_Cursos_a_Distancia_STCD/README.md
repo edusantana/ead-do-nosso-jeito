@@ -82,6 +82,14 @@ Realize a Atividade 1, descrita na página 93 do texto base desta etapa.
 
 Formato: mínimo de duas e máximo de seis páginas, folha A4, espaçamento 1,5, fonte Times New Roman ou Arial, tamanho 12.
 
+### Tarefa 5 ::: Produção de Texto
+
+Com base nas leituras que você realizou durante a disciplina, que de alguma forma oferecem subsidios para desenvolver critérios de qualidade para a mediação pedagógica em um fórum de discussão, escolha um grupo diferente do seu e comente aspectos positivos e negativos das práticas de mediação utilizadas.
+
+Atenção: isto é apenas um exercício para reflexão sobre suas próprias práticas a partir da observação das práticas de seus colegas. Seu papel aqui não é o de julgar e nem de expor o trabalho do outro. Você apenas indicará o grupo e discorrerá sobre o que viu, sem citar nomes.
+
+Formato: mínimo de duas e máximo de quatro páginas, folha A4, espaçamento 1,5, fonte Times New Roman ou Arial, tamanho 12.
+
 ## Fóruns
 
 ### Fórum ::: Fórum Temático 1
@@ -128,3 +136,11 @@ Identifique, nos fóruns de discussão de outras disciplinas, situações como a
 Não deixe de comentar as colaborações de seus colegas e aprofundar as discussões.
 
 Atenção, esse trabalho exige um cuidado ético muito grande, tome cuidado para não expor e nem julgar ninguém, trata-se apenas de um estudo de casos.
+
+### Fórum ::: Fórum Temático 5
+
+O desafio desta etapa é criar um fórum em que vocês serão mediadores por três dias.
+
+Atenção: as instruções detalhadas para do funcionamento deste fórum se encontram no fórum "Fale com seu tutor", no tópico "Ciranda de Mediação".
+
+Bons estudos e boas práticas!

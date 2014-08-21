@@ -9,7 +9,7 @@
 * [Críticas](criticas/README.md)
 * [Pigead/LANTE](pigead/README.md)
   * [Fundamentos da EaD](pigead/1-Fundamentos_de_EaD_(FEAD)/README.md)
-  * [Desenvolvimento de Cursos a Distância com Foco no Aluno](pigead/2-Planejamento_de_Curso_a_Distancia_com_Foco_no_Aluno_(PCFA)/README.md)
+  * [Desenvolvimento de Cursos a Distância com Foco no Aluno](pigead/2-Planejamento_de_Curso_a_Distancia_com_Foco_no_Aluno_PCFA/README.md)
   * [Produção de Material Didático Impresso](pigead/3-Producao_de_Material_Didatico_PMD/README.md)
   * [Ambientes Virtuais e Mídias de Comunicação](pigead/4-Ambientes_Virtuais_e_Midias_de_Comunicacao_AVMC/README.md)
   * [Sistema de Tutoria em Cursos a Distância](pigead/5-Sistemas_de_Tutoria_em_Cursos_a_Distancia_STCD/README.md)
