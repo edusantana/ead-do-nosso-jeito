@@ -107,11 +107,31 @@ Usem o fórum da semana 7 para tirarem dúvidas com seu tutor.
 
 ## Recursos
 
-Leitura de parte do Livro "Investigação em educação matemática"
-http://books.google.com.br/books?id=l89pPjS6OxQC&printsec=frontcover&dq=Investiga%C3%A7%C3%A3o+em+educa%C3%A7%C3%A3o+matem%C3%A1tica+percursos+te%C3%B3ricos+e+metodol%C3%B3gicos++Por+DARIO+FIORENTINI,SERGIO+LORENZA&redir_esc=y#v=twopage&q&f=true
 
-Leitura do texto " A pesquisa" da Revista Pesquisa Odontológica Brasileira
-http://www.scielo.br/scielo.php?pid=S1517-74912003000500011&script=sci_arttext&tlng=es
+
+
 
 
 MARTINS FILHO, Plínio. Direitos autorais na Internet. Ci. Inf.,  Brasília ,  v. 27, n. 2,   1998 .   Available from <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-19651998000200011&lng=en&nrm=iso>. access on  16  July  2014.  http://dx.doi.org/10.1590/S0100-19651998000200011.
+
+
+### Semana 1
+
+ÁREAS DOS TEMAS DOS TRABALHOS
+
+Área 1: Fundamentos de EAD
+
+Área 2: Produção de Material Didático Impresso
+
+Área 3: Ambientes Virtuais e Mídias de Comunicação
+
+Área 4: Sistemas de Tutorias em Cursos a Distância
+
+Área 5: Avaliação de Aprendizagem e Institucional
+
+Área 6: Gestão de Curso a Distância
+
+Área 7: Desenvolvimento de curso com foco no aluno
+
+- [Leitura de parte do Livro "Investigação em educação matemática"](http://books.google.com.br/books?id=l89pPjS6OxQC&printsec=frontcover&dq=Investiga%C3%A7%C3%A3o+em+educa%C3%A7%C3%A3o+matem%C3%A1tica+percursos+te%C3%B3ricos+e+metodol%C3%B3gicos++Por+DARIO+FIORENTINI,SERGIO+LORENZA&redir_esc=y#v=twopage&q&f=true)
+- [Leitura do Texto de Clark, Otávio Augusto Câmara, and Aldemar Araujo Castro. "Research." Pesquisa Odontológica Brasileira 17 (2003): 67-69.](http://www.scielo.br/scielo.php?pid=S1517-74912003000500011&script=sci_arttext&tlng=es)

@@ -1,7 +1,9 @@
 
 # Pigead / Ambientes Virtuais e Mídias de Comunicação
 
-## Vídeos
+## Vídeos e Recursos
+
+### Semana 1
 
 Ken Robinson: Escolas matam a criatividade?
 * https://www.youtube.com/watch?v=yFi1mKnvs2w (parte 1/2):
@@ -9,9 +11,17 @@ Ken Robinson: Escolas matam a criatividade?
 
 http://www.lascaux.culture.fr/
 
+### Semana 2
+
+- [Passeio virtual na caverna de Lascaux](http://www.lascaux.culture.fr)
+
 ### Semana 3
 
 https://www.youtube.com/watch?v=NJsacDCsiPg
+
+- [Portal UNICAMP de Tecnologias Educacionais](http://www.ggte.unicamp.br/ggte/)
+- [Web 2.0 :: A máquina somos nós URL](https://www.youtube.com/watch?v=NJsacDCsiPg)
+- [Photoshop online :: Para tratamento de imagens](http://www.photoshoponline.com.br/editor/)
 
 ## Tarefas
 
