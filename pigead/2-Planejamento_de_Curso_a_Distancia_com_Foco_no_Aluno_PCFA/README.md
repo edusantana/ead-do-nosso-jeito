@@ -77,7 +77,21 @@ Observações:
 
 - as duas questões deverão ser enviadas em um arquivo único que não deverá exceder 1 página em Times New Roman 12, espaço 1,5.
 
-## Tarefa 5: Simulando ações da tutoria
+## Tarefa 5: Mediando conflitos em fóruns virtuais (2014.1)
+
+Releia com especial atenção as seções da aula 5 que apresentam resumidamente as "Máximas Conversacionais" de Grice e a "Teoria da Faces" de Brown e Levinson. Considerando essa base teórica, reproduza dois posts de fóruns dos quais vocês já tenha participado (reproduzindo o contexto mais próximo, se for necessário) e avalie-os fazendo o seguinte:
+
+- identifique diferentememente, em cada post, o trecho em que uma das máximas conversacionais é violada, indique de qual máxima exatamente se trata, e explique como é possível notar que isso acontece;
+
+- sugira, pra cada problema identificado, uma forma eficaz de intervenção do tutor que ajude a corrigir o problema preservando a face do aluno.
+
+Observações:
+
+- sempre inclua nas suas tarefas um cabeçalho (nome; pólo, grupo, tutor) e, quando necessário, as referências bibliográficas dos textos citados;
+
+- as duas questões deverão ser enviadas em um arquivo único que não deverá exceder 1 página em Times New Roman 12, espaço 1,5.
+
+## Tarefa 6: Simulando ações da tutoria
 
 Prosseguindo no intuito de criar simulações da atividade de tutoria, vamos estimulá-lo de novo a desenvolver, na prática, as habilidades necessárias para exercer a função de um tutor. Para isto, considere a seguinte reflexão geral que está na última página da aula desta semana:
 
@@ -94,6 +108,25 @@ Observações:
 - sempre inclua nas suas tarefas um cabeçalho (nome; pólo, grupo, tutor) e, quando necessário, as referências bibliográficas dos textos citados;
 
 - as duas questões deverão ser enviadas em um arquivo único que não deverá exceder 1 página em Times New Roman 12, espaço 1,5.
+
+## Tarefa 6: Simulando ações da tutoria
+
+Prosseguindo no intuito de criar simulações da atividade de tutoria, vamos estimulá-lo de novo a desenvolver, na prática, as habilidades necessárias para exercer a função de um tutor. Para isto, considere a seguinte reflexão geral que está na última página da aula desta semana:
+
+O material de estudos é a ferramenta de trabalho principal do tutor. Toda contribuição que der será para melhorar a compreensão dos alunos e não para criar atalhos. É importante lembrar que um professor especialista é responsável por esse material, e que o tutor deve ser seu colaborador, esclarecendo pontos que, porventura, não tenham ficado tão claros quanto deveriam para o grupo de estudantes que seu trabalho apóia. (grifo nosso)
+
+A partir daí, identifique um ponto específico em duas aulas desta disciplina à sua livre escolha que, a seu ver, precisariam mais de esclarecimentos adicionais em relação ao que consta no material didático. Feito isso, registre (como se estivesse enviando o material como uma colaboração sua para o autor da disciplina) uma indicação clara do seguinte, para cada um dos dois pontos focados:
+
+- a aula à qual cada problema se refere e o trecho específico em que a lacuna fica mais saliente, citando-o se necessário (até 2pts pela precisão e consistência de cada uma das duas indicações a serem feitas);
+
+- sua sugestão a respeito do que poderia ser feito para que o material fosse aprimorado em relação ao problema apontado (até 3pts pela clareza e consistência de cada uma das duas sugestões a serem apresentadas);
+
+Observações:
+
+- sempre inclua nas suas tarefas um cabeçalho (nome; pólo, grupo, tutor) e, quando necessário, as referências bibliográficas dos textos citados;
+
+- as duas questões deverão ser enviadas em um arquivo único que não deverá exceder 1 página em Times New Roman 12, espaço 1,5.
+
 
 # Fóruns
 
@@ -157,7 +190,7 @@ Obs.2: Observe atentamente o que está fixado nos Critérios gerais para avalia�
 
 Obs.:3 Repare que, excepcionalmente, este fórum terá a duração de 2 semanas, considerando a necessidade de flexibilização das atividades neste período entrecortado pelo carnaval.
 
-## Fórum 5: Como incentivar a autonomia dos alunos?
+## Fórum 6: Como incentivar a autonomia dos alunos?
 
 Oi, gente!
 
